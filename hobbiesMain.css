@@ -279,6 +279,7 @@ border-radius: 30px;
     left: 75%;
     top: 150%;
     transform: rotate(5.04deg);
+    z-index:-2;
 }
 
 .card1:hover , .card2:hover , .card3:hover{
