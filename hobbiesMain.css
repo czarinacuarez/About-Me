@@ -269,6 +269,7 @@ border-radius: 30px;
     height: 50%;
     left: 77%;
     top: 70.5%;
+    z-index: -2;
 }
 
 .hea {
